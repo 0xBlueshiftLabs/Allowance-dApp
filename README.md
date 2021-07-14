@@ -7,17 +7,11 @@
 
 # Allowance-Smart-Contracts
 
-These smart contracts allow users to access funds from a shared Ethereum wallet. The amount accessible by each user can be set by the smart contract deployer.
+Smart contracts allowing users to access funds from a shared Ethereum wallet. Amount accessible by each user can be set by the smart contract deployer.
 
 ### What is an Ethereum wallet?
 Ethereum wallets are applications that let you interact with your Ethereum account. 
 Think of it like an internet banking app – without the bank.
-
-
-
-
-
-
 
 
 
