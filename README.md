@@ -45,7 +45,9 @@ Think of it like an internet banking app – without the bank.
 * [Open Zeppelin](https://openzeppelin.com/)
 * [Solidity](https://docs.soliditylang.org/en/v0.8.6/)
 
+## Future Work
 
+* Write unit tests using JavaScript & Truffle
   
 
 <!-- LICENSE -->
