@@ -1,5 +1,10 @@
 // SPDX-License-Identifier: MIT
 
+/**
+ * @title Allowance
+ * @dev allows deployer to set allowance for users of a shared wallet
+ */
+
 import "./safemath.sol";
 
 contract Allowance {
