@@ -71,7 +71,7 @@ Project Link: [https://github.com/Elisik/Allowance-Smart-Contracts](https://gith
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-This project was created as part of the Ethereum Blockchain Developer Bootcamp as linked below.
+
 * [Ethereum Blockchain Developer Bootcamp With Solidity (2021)](https://www.udemy.com/course/blockchain-developer/)
 
 
