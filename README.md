@@ -48,7 +48,7 @@ Think of it like an internet banking app – without the bank.
 
 ## Future Work
 
-* Write unit tests using JavaScript & Truffle
+* Unit testing
   
 
 <!-- LICENSE -->
