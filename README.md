@@ -61,11 +61,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Twitter - [@TraderTDF](https://twitter.com/TraderTDF)
+Twitter - [@0xElisik](https://twitter.com/0xElisik)
 
 LinkedIn - [https://www.linkedin.com/in/RAMWatson/](https://www.linkedin.com/in/RAMWatson/)
 
-Project Link: [https://github.com/Elisik/Allowance-Smart-Contracts](https://github.com/Elisik/Allowance-Smart-Contracts)
+Project Link: [https://github.com/0xBlueshiftLabs/Allowance-dApp](https://github.com/0xBlueshiftLabs/Allowance-dApp)
 
 
 
